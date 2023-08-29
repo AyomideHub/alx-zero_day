@@ -1,1 +1,1 @@
-My second readme
+just bash and c only
